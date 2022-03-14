@@ -1,4 +1,37 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {background-color:black;font-family:arial;color:white}
+h1{color:grey;font-family:verdana}
+.mainDiv {
+    background-color:white;
+    border-radius:25px;
+    color:black;
+    width: 300px;
+    padding: 20px;
+    margin:0 auto;
+}
+.footer
+{}
+.compute
+{display: block;}
+label
+{
+    width: 47%;
+    display: inline-block;
+    margin: 10px 0;
+}
+.inputs
+{
+    width: 50%;
+    display: inline-block;
+}
+.range{
+    width: 70%;
+}
+#rate_val
+{
+    width: 25%;
+    font-size: 0.75em;
+}
+.number
+{
+    background-color:yellow;
+}
